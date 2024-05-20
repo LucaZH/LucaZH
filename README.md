@@ -21,3 +21,4 @@
 <p align="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=LucaZH&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
+<img src='https://komarev.com/ghpvc/?username=lucazh&style=for-the-badge'>
