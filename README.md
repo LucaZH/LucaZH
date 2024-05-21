@@ -15,7 +15,7 @@
     <br/>
     <br/>
     <div>
-        <img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,figma,tailwind,bootstrap,git,github,mysql,postgres"/>
+        <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,react,html,css,js,figma,tailwind,bootstrap,git,github,mysql,postgres"/>
     </div>
 </details>
 <p align="center">
