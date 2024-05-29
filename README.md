@@ -11,8 +11,6 @@
     <summary align="left">
         <b align="center">Skills.</b>
     </summary>
-    <img src="assets/borderseparator.gif"/>
-    <br/>
     <br/>
     <div>
         <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,react,html,css,js,figma,tailwind,bootstrap,git,github,mysql,postgres"/>
