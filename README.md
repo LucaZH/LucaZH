@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/LucaZH/LucaZH@main/assets/giphy.webp" />
+</p>
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4dffb5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+;I'm+Luca%2C+a+Python+and+React+developer" width="100%" />
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
