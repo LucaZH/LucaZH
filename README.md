@@ -55,14 +55,5 @@
     <div align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=LucaZH&theme=darcula&hide_border=true&background=FFFFFF00">
     </div>
-    </br>
-    <div>
-        <a href="https://ossinsight.io/analyze/LucaZH">
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LucaZH&theme=vue&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucaZH&theme=vue&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">           
-            </picture>
-        </a>
-    </div>
 </section>
 <img src='https://komarev.com/ghpvc/?username=lucazh&style=for-the-badge'>
