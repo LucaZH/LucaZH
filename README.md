@@ -5,7 +5,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Fullstack Developer (Python/React/Design)
+- :computer: Python/React Developer
 - :hourglass_flowing_sand: Currently learn react
 - :rocket: Always ready : to collaborate for Dev Experiments
 - :man_technologist: Google Developer Antsirabe Organizer
