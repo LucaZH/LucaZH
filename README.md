@@ -5,11 +5,10 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: Python/React Developer
+- :computer: Python/Django/Odoo/React Developer
 - :hourglass_flowing_sand: Currently learn react
 - :rocket: Always ready : to collaborate for Dev Experiments
 - :man_technologist: Google Developer Antsirabe Organizer
-- :trophy: Rank 18 🇲🇬 on codingame
 
 <section>
     <h2>Skills</h2>
