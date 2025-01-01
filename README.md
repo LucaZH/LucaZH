@@ -36,7 +36,7 @@
         </summary>
         <br/>
         <div>
-            <img src="https://skillicons.dev/icons?i=html,css,react,scss,tailwind,bootstrap"/>
+            <img src="https://skillicons.dev/icons?i=html,css,react,scss,tailwind"/>
         </div>
     </details>
     <details open>
