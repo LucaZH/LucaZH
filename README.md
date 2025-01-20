@@ -18,7 +18,7 @@
         </summary>
         <br/>
         <div>
-            <img src="https://skillicons.dev/icons?i=python,typescript,java"/>
+            <img src="https://skillicons.dev/icons?i=python,rust,typescript,java"/>
         </div>
     </details>
     <details open>
