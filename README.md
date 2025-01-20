@@ -6,7 +6,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: Python/Django/Odoo/React Developer
-- :hourglass_flowing_sand: Currently learn react
+- :hourglass_flowing_sand: Currently learn Rust
 - :rocket: Always ready : to collaborate for Dev Experiments
 - :man_technologist: Google Developer Antsirabe Organizer
 
